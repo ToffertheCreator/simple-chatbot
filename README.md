@@ -2,9 +2,9 @@
 This project implements a chatbot that provides weather information and performs web searches based on user queries. It uses web scraping to gather content, summarizes it, and presents relevant details. The chatbot also includes source citations.
 
 ## Features
-# 1. Weather Query:
+1. Weather Query:
 The chatbot fetches real-time weather data based on user-provided locations using the python-weather library. This library depends on wttr.in, which in turn uses data from the World Weather Online API. It returns information like temperature, chances of raining, and sunlight hours.
-# 2. General Query (Web Search and Summarization):
+2. General Query (Web Search and Summarization):
 The chatbot allows users to enter general queries (e.g., "What is quantum computing?").
 The chatbot performs a web search, scrapes the top articles, and summarizes the content into concise key points.
 For each query, the chatbot provides:
