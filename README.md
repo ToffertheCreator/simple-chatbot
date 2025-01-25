@@ -23,6 +23,9 @@ For each query, the chatbot provides:
   "* Running on local URL:  http://127.0.0.1:7860"
 --> Copy and paste the URL into your browser to interact with the chatbot.
 
+# Note
+* Responses in general query may take a few minutes to generate, this is due to the extensive web scraping being executed one by one to not overwhelm the server and not get banned. Please be patient.
+
 # Future Improvements
 * User Personalization: Add the ability for users to save preferences or past queries for a personalized experience.
 * Advanced Summarization: Improve the summarization algorithm to handle more complex topics and provide more concise answers.
@@ -31,5 +34,5 @@ For each query, the chatbot provides:
 * Voice Integration: Allow users to interact with the chatbot using voice commands.
 * Sentiment Analysis: Add sentiment analysis to provide feedback on the tone of user queries or responses.
 * NLP Intent Classification: Implement intent classification to identify specific user intentions (e.g., weather query, general knowledge, etc.) and improve response accuracy by tailoring the behavior of the chatbot to different types of requests.
-*Contextual Conversation Flow: Enhance the chatbot’s ability to maintain context over multiple interactions, providing more natural conversations.
+* Contextual Conversation Flow: Enhance the chatbot’s ability to maintain context over multiple interactions, providing more natural conversations.
 * Additional Features: Add more features that improve the chatbot's capabilities, such as real-time data updates, deeper integration with external APIs, and other intelligent functionalities.
