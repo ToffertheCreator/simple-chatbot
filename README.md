@@ -12,15 +12,15 @@ For each query, the chatbot provides:
 * Citations of the sources where the data was gathered.
 
 ### Installation
-* Clone the repository:
+* Clone the repository:\
   `git clone https://github.com/ToffertheCreator/simple-chatbot`
   `cd chatbot`
-* Install dependencies: Make sure you have Python 3.7+ installed, then run:
+* Install dependencies: Make sure you have Python 3.7+ installed, then run:\
 `pip install -r requirements.txt`
-* Run the app: Start the chatbot application:
+* Run the app: Start the chatbot application:\
 `py main.py`
-* Access the chatbot: After running the app, you should see something like:
-  "* Running on local URL:  http://127.0.0.1:7860"
+* Access the chatbot: After running the app, you should see something like:\
+  "* Running on local URL:  http://127.0.0.1:7860"\
  -->Copy and paste the URL into your browser to interact with the chatbot.
 
 ### Note
