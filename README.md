@@ -13,7 +13,7 @@ For each query, the chatbot provides:
 
 ### Installation
 * Clone the repository:\
-  `git clone https://github.com/ToffertheCreator/simple-chatbot`
+  `git clone https://github.com/ToffertheCreator/simple-chatbot`\
   `cd chatbot`
 * Install dependencies: Make sure you have Python 3.7+ installed, then run:\
 `pip install -r requirements.txt`
