@@ -13,15 +13,15 @@ For each query, the chatbot provides:
 
 # Installation
 * Clone the repository:
-  --> git clone https://github.com/yourusername/simple-chatbot.git
-  --> cd chatbot
+* --> git clone https://github.com/yourusername/simple-chatbot.git
+* --> cd chatbot
 * Install dependencies: Make sure you have Python 3.7+ installed, then run:
-  --> pip install -r requirements.txt
+* --> pip install -r requirements.txt
 * Run the app: Start the chatbot application:
-  --> py main.py
+* --> py main.py
 * Access the chatbot: After running the app, you should see something like:
   "* Running on local URL:  http://127.0.0.1:7860"
-  --> Copy and paste the URL into your browser to interact with the chatbot.
+* --> Copy and paste the URL into your browser to interact with the chatbot.
 
 # Note
 * Responses in general query may take a few minutes to generate, this is due to the extensive web scraping being executed one by one to not overwhelm the server and not get banned. Please be patient.
