@@ -17,6 +17,8 @@ For each query, the chatbot provides:
   `cd chatbot`
 * Install dependencies: Make sure you have Python 3.7+ installed, then run:\
 `pip install -r requirements.txt`
+* Install other playwright dependencies:\
+`python -m playwright install`
 * Run the app: Start the chatbot application:\
 `py main.py`
 * Access the chatbot: After running the app, you should see something like:\
