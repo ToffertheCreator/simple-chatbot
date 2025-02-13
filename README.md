@@ -1,6 +1,5 @@
 # Simple Chatbot
-This project implements a chatbot that provides weather information and performs web searches based on user queries. It uses web scraping to gather content, summarizes it, and presents relevant details. The chatbot also includes source citations.
-
+This project implements a chatbot that provides weather information and performs web searches based on user queries. It uses web scraping to gather content, summarizes it, and presents relevant details.
 ## Features
 1. Weather Query:
 The chatbot fetches real-time weather data based on user-provided locations using the python-weather library. This library depends on wttr.in, which in turn uses data from the World Weather Online API. It returns information like temperature, chances of raining, and sunlight hours.
